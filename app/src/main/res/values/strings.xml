@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="site">Переход на другую страницу</string>
+    <string name="site1">Тут можно сделать заказ!</string>
+    <string name="info2">Notifications другой страницы</string>
+    <string name="info">Заказ №2569-87DFG</string>
+    <string name="details">Лавандовая гортензия и эвкалипт.</string>
+    <string name="details2">Сделать заказ?</string>
+    <string name="price">3000р</string>
+</resources>
